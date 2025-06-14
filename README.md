@@ -89,7 +89,9 @@ Used Power BI's SQL native query feature to pull in pre-cleaned warehouse utiliz
 
 - Region (East, North, South, West)  
 - Year (2023–2025)  
-- State-level filtering  
+- State-level filtering
+  
+![Fin Analysis](https://github.com/user-attachments/assets/2d35d22a-18eb-449e-a5fd-c4af80f522cb)
 
 ---
 
@@ -113,6 +115,8 @@ Used Power BI's SQL native query feature to pull in pre-cleaned warehouse utiliz
 - Region  
 - Year  
 - State  
+
+![Inventory Analysis](https://github.com/user-attachments/assets/1332e71d-2c72-4d3f-9e94-c1810021fdd5)
 
 ---
 
